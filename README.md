@@ -16,4 +16,4 @@ This thesis introduces RISPE, a retinomorphic in-sensor processing architecture 
 
 ## Full Thesis
 
-📄 [PDF in this repository]([./Retinomorphic%20mid-wave%20infrared...pdf](https://github.com/heman1911/MWIR-Retinomorphic-InSensor-Processing/blob/main/Retinomorphic%20mid-wave%20infrared%20in-sensor%20processing%20engine.pdf))
+📄 [Full PDF](https://digitalcommons.njit.edu/theses/3554/))
