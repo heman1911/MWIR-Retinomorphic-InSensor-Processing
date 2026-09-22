@@ -16,4 +16,4 @@ This thesis introduces RISPE, a retinomorphic in-sensor processing architecture 
 
 ## Full Thesis
 
-📄 [Full PDF](https://digitalcommons.njit.edu/theses/3554/))
+📄 [Full PDF](https://digitalcommons.njit.edu/theses/3554/)
